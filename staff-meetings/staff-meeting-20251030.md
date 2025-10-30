@@ -1,0 +1,15 @@
+Summarize discussion
+
+- **QA Workflow Changes:** Rakesh Dontula discussed changing the QA workflow, introducing a new step for test pack generation and defining test cases upfront in Jira before development. Kelly Taylor mentioned being behind on implementation due to Fleet Farm hotfix issues.
+- **AI Tool Usage:** Kelly Taylor's team uses Claude Code and Co-pilot, seeing more comprehensive, AI-generated tests and increased code coverage (70.9% for cloud fulfillment). Paul Theron's team also uses AI tools, with Paul finding Co-pilot (with GPT-5) more effective than Claude for certain tasks. Srikanth Bandlamudi and Raghavendra Patlola also shared their preferences for Claude for coding and debugging and Co-pilot for test case generation and existing CRUD implementations.
+- **AI Tool Standards and Burnout:** Kelly Taylor and Paul Theron expressed concerns about the lack of standards for AI tool usage, leading to potential burnout if engineers are expected to constantly learn new tools without dedicated time. Kelly suggested leveraging time saved by AI for exploration rather than just adding more deliverables.
+- **Documentation and Context:** Kelly Taylor proposed having context-specific documentation within each project for features and functionality, almost self-documenting, to aid in creating tests and examples. Rakesh Dontula agreed on the need for standards and suggested the accelerator team would define global rules for code coverage, while project-level settings would be defined by individual teams.
+- **AI Tool Experimentation:** Kelly Taylor shared her method of using Claude iteratively in VS Code with a large workspace by narrowing the scope and saving sessions to avoid timeouts. Paul Theron and Saurabh Gadkari also discussed their experiences with different AI models like Sonnet 45 and GPT-5 for planning and execution.
+- **Brown Bag Sessions:** Rakesh Dontula suggested that future brown bag sessions should focus on how teams are actively using these AI tools to accomplish tasks, fostering learning from each other's adoption strategies. Amit Ugane confirmed his team uses both Claude and Co-pilot flexibly, primarily Sonnet 4.5.
+
+Here's a summary of the discussion from the last two minutes:
+
+- **Performance Fixes:** Kelly Taylor confirmed that her team pushed fixes for H&M and completed perfecting, with results under review. Paul Theron mentioned pushing more changes related to tenant performance and expects a few hotfixes next week. Srikanth Bandlamudi stated that the Commerce team pushed some fixes and met with Travis regarding slowness. They identified that some fixes made during H&M testing were not pushed out and need to be released by Monday. A hotfix for the head-end stuff is going out today.
+- **Allstacks Issues:** Rakesh Dontula confirmed with Paul Theron that the issues Paul was seeing with Allstacks have been resolved.
+- **Anthropic Plugin:** Paul Theron asked if there's a way to hook into an Anthropic plugin, noting that they want the API key to provide metrics but don't use it.
+

@@ -1,0 +1,7 @@
+- The team discussed changes to the Fulfillment APIs, specifically regarding the Shipment Partial Pickup API and its new `forceFulfill` parameter.
+- Kelly Taylor proposed making the `forceFulfill` parameter optional in the Shipment Partial Pickup API, defaulting to `false` for partial pickup, and leaving the Shipment Fulfilled API as-is, with `forceFulfill` only used internally, and defaulting to `true`. This would allow for Partial Pickup extensibility without changing the default behavior for existing clients.
+- Rakesh Dontula and Sachin Sharma initially expressed concern about changing the public API's default behavior, suggesting the change should be made in the fulfiller UI instead to preserve current API behavior.
+- After further discussion, it was clarified that changing the API's default to `false` for partial pickup would not impact existing clients because no current Business Process Models (BPMs) utilize a step after partial pickup. It would only enable extensibility for clients who wish to add such steps.
+- The team agreed to proceed with Kelly's plan to modify the API.
+- The backend API change is targeted for deployment to Sandbox by the sixth of November, with staging and production deployments to follow within a day or two.
+- UI changes for improved messaging and redirection to the new child shipment after partial pickup is invoked are also planned, with a target completion date of November 11th. These UI changes are considered good user experience improvements and not critical for functional testing.
