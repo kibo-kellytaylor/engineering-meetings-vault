@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "ff4f86969169dff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "client-extensibility-meetings/fleetfarm-fulfillment-extensibility-20251031.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fleetfarm-fulfillment-extensibility-20251031"
+            }
+          },
+          {
+            "id": "679108e84683855c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kelly-and-saurabh-connect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kelly-and-saurabh-connect"
+            }
+          },
+          {
+            "id": "21abc20f4711bfdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "release-deployment-meetings/release-deployment-meeting-20251107.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "release-deployment-meeting-20251107"
+            }
+          },
+          {
+            "id": "a76f7a4ea77ca609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "project-meetings/cartonization/project-cartonization-meeting-20251112.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "project-cartonization-meeting-20251112"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,12 +226,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7ae8796ff3543a6",
+  "active": "976f65d6f195a7b6",
   "lastOpenFiles": [
-    "staff-meetings/staff-meeting-20251030.md",
-    "Welcome.md",
-    "staff-meetings/staff-meeting-20251016.md",
+    "project-meetings/dropship",
+    "project-meetings/cartonization",
+    "project-meetings",
+    "release-deployment-meetings/release-deployment-meeting-20251107.md",
+    "project-meetings/cartonization/project-cartonization-meeting-20251112.md",
+    "release-deployment-meetings",
+    "kelly-and-saurabh-connect.md",
+    "client-extensibility-meetings/fleetfarm-fulfillment-extensibility-20251031.md",
     "client-extensibility-meetings/fleetfarm-fulfillment-extensibility-20251030.md",
+    "Welcome.md",
+    "staff-meetings/staff-meeting-20251030.md",
+    "staff-meetings/staff-meeting-20251016.md",
     "bi-weekly-connect-product-&-tech/bi-weekly-connect-20251028.md",
     "client-extensibility-meetings",
     "bi-weekly-connect-product-&-tech",

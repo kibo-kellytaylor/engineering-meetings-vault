@@ -1,0 +1,9 @@
+Here's a summary of the discussion so far:
+
+- Saurabh shared that he recently underwent major brain surgery for a brain tumor and is now recovering, expressing gratitude for everyone's support. He mentioned having a titanium plate in his head.
+- Saurabh is excited about a new process change that came up while he was out and wants to contribute, having reviewed the related documentation and being impressed by the work.
+- Kelly explained her background in development, focusing on working upfront with product managers, QA, and performance test engineers to create comprehensive test scenarios and specifications before development begins.
+- Kelly highlighted challenges with current QA resources, the bloat in the Kibo test repository due to procedural code, and the lagging automation testing. She proposed integrating more unit and integration tests directly into projects and having QA engineers learn the project's language.
+- Kelly and Saurabh discussed the orchestration of the new process, including the use of prompt libraries and triggers. Kelly detailed the current process where Srikant uses a template and AI tools like Co-pilot or Claude to enhance Jira tickets, which are then scored by Rakesh's application.
+- Kelly's goal is to streamline this process, potentially through MCP servers, to make it more efficient and move beyond manual copy-pasting, ultimately aiming to build an agent library to handle busy work.
+- Saurabh recommended Kelly look into "Spec expected" from GitHub, as Tom seems inclined to adopt it, suggesting it could become a standardized tool for development at an individual level. Kelly clarified she is not against tools but emphasized the need to consider the broader team's adoption and budget implications before introducing new tools.
