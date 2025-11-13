@@ -1,6 +1,6 @@
 -   
     The team discussed ongoing issues with flaky tests in the QA Sandbox environment, primarily related to inventory and fulfillment services crashing due to memory limits or container issues.
-- Nelly Turdean reported that 12 tests have been moved from Kibble Test, and there are around 10 unstable tests out of 400 that are failing intermittently in QA Sandbox, often due to environment issues.
+- Nelly Turdean reported that 12 tests have been moved from Kibo.Test, and there are around 10 unstable tests out of 400 that are failing intermittently in QA Sandbox, often due to environment issues.
 - Thomas Phipps expressed frustration with the long-standing environment problems and suggested simplifying the QA environment by reducing the number of tenants and cleaning up data.
 - Connor Workman confirmed that the issue with inventory is likely due to memory limits and that the nodes have plenty of memory, but it's not configured appropriately. He suggested locking HPAs at three replicas.
 - Nelly also inquired about new environments (GCP Staging 4 and GCP Staging 2) and whether to set up automation on them. GCP Staging 4 is a dedicated environment for Total Wine (OMS only), and GCP Staging 2 will be a shared environment.
