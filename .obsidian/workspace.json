@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "912526d1a2efa459",
+        "id": "bed71f34f7e56454",
         "type": "tabs",
         "children": [
           {
-            "id": "ff679909054ca2a8",
+            "id": "59dc6d7751953829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "connect-1-on-1/rakesh/rakesh-kelly-20251114.md",
+                "file": "connect-1-on-1/bhagya/bhagya-kelly-2025.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "rakesh-kelly-20251114"
+              "title": "bhagya-kelly-2025"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 407.5
   },
   "right": {
     "id": "c9aab8f0a11c21d2",
@@ -169,13 +169,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff679909054ca2a8",
+  "active": "59dc6d7751953829",
   "lastOpenFiles": [
+    "connect-1-on-1/bhagya/bhagya-kelly-2025.md",
+    "projects/dropship/dropship-bpm-and-fulfillment-events-202511.md",
+    "projects/cartonization/cartonization-commerce-apis-20251112.md",
+    "projects/cartonization/cartonization-fulfillment-ui-20251112.md",
+    "connect-1-on-1/rakesh/rakesh-kelly-20251114.md",
     "connect-1-on-1/saurabh/saurabh-kelly-20251107.md",
     "connect-1-on-1/shantanu/shantanu-kelly-2025.md",
     "connect-1-on-1/tanmay/tanmay-kelly-2025.md",
     "connect-1-on-1/tanmay/tanmay-kelly-20251114.md",
-    "connect-1-on-1/rakesh/rakesh-kelly-20251114.md",
     "connect-1-on-1/shantanu",
     "connect-1-on-1/bhagya",
     "connect-1-on-1/tanmay",
@@ -190,10 +194,8 @@
     "process-changes/engineering-process-changes-20251112.md",
     "connect-1-on-1",
     "process-changes",
-    "projects/cartonization/project-cartonization-commerce-apis-20251112.md",
-    "projects/cartonization/project-cartonization-fulfillment-ui-20251112.md",
     "projects/dropship",
-    "release-deployment/release-deployment-meeting-20251107.md",
+    "release-deployment/release-deployment-20251107.md",
     "client-extensibility/fleetfarm-fulfillment-extensibility-20251031.md",
     "client-extensibility/fleetfarm-fulfillment-extensibility-20251030.md",
     "connect-product-&-tech/bi-weekly-connect-20251028.md",
