@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "connect-1-on-1/rakesh/rakesh-and-kelly-20251114.md",
-                "mode": "source",
-                "source": false
+                "file": "connect-1-on-1/tanmay/tanmay-and-kelly-2025.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "rakesh-and-kelly-20251114"
+              "title": "tanmay-and-kelly-2025"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 371.5
   },
   "right": {
     "id": "c9aab8f0a11c21d2",
@@ -173,6 +173,8 @@
   "lastOpenFiles": [
     "connect-1-on-1/saurabh/saurabh-and-kelly-20251107.md",
     "connect-1-on-1/rakesh/rakesh-and-kelly-20251114.md",
+    "connect-1-on-1/tanmay/tanmay-and-kelly-2025.md",
+    "connect-1-on-1/tanmay/tanmay-and-kelly-20251114.md",
     "connect-1-on-1/shantanu",
     "connect-1-on-1/bhagya",
     "connect-1-on-1/tanmay",
@@ -180,7 +182,6 @@
     "connect-1-on-1/aditi",
     "connect-1-on-1/saurabh",
     "connect-1-on-1/rakesh",
-    "connect-1-on-1/tanmay/tanmay-and-kelly-20251114.md",
     "staff/staff-meeting-20251113.md",
     "staff/staff-meeting-20251030.md",
     "staff/staff-meeting-20251016.md",
