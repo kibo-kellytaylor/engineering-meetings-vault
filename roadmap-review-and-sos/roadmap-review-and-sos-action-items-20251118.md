@@ -1,0 +1,8 @@
+- dropship work to be completely done this sprint, possibly leak into next sprint...but deployed by end of November - dropship bpm, dropship events, create and invoice apis (i'm thinking a new Shipment Actions API, where task name in BPM is action but with all whitespace stripped...or maybe supports with or without whitespace action/task name match), model changes...workflow selection on shipment create based on assigned location
+- multi-sth-consolidation for ODP should be done this week
+- cartonization doc added to confluence
+- cartonization dates added to visor and ERM epics then communicated to COM team, Rutvee
+- all dates added to visor and ERM epics
+- open telemetry integration
+- pura shipment creation issues
+- 
