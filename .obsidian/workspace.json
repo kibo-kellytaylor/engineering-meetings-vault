@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1808fa7fde05a7",
+        "id": "2c53202593895d68",
         "type": "tabs",
         "children": [
           {
-            "id": "2b804e1d1adcf309",
+            "id": "c9f2eced82ebbe21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "projects/cartonization/cartonization-design-20251125.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cartonization-design-20251125"
             }
           }
         ]
@@ -165,9 +169,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b804e1d1adcf309",
+  "active": "c9f2eced82ebbe21",
   "lastOpenFiles": [
+    "projects/rate-shopping/rate-shopping-20251125.md",
+    "connect-1-on-1/tanmay/tanmay-kelly-20251125.md",
+    "projects/Untitled",
+    "projects/dropship/dropship-bpm-and-fulfillment-events-202511.md",
+    "peak-planning/peak-microservice-scale-plans-20251124.md",
+    "projects/cartonization/cartonization-design-20251125.md",
+    "biweekly-connect-20251125.md",
     "engineering-process-changes/engineering-process-changes-20251119.md",
+    "engineering-process-changes/engineering-process-changes-20251112.md",
+    "issues/missing-shipmentstatusreason-on-create-of-cancelled-shipment.md",
+    "projects/dropship/dropship-sync-20251124.md",
+    "issues",
+    "peak-planning",
+    "client-extensibility/general",
     "client-extensibility/fleetfarm-fulfillment-extensibility-20251121.md",
     "client-extensibility/fleetfarm-fulfillment-extensibility-20251030.md",
     "client-extensibility/fleetfarm-fulfillment-extensibility-20251031.md",
@@ -178,11 +195,9 @@
     "roadmap-review-and-sos/roadmap-review-and-sos-20251118.md",
     "projects/cartonization/cartonization-fulfillment-ui-20251119.md",
     "projects/cartonization/cartonization-fulfillment-ui-20251112.md",
-    "engineering-process-changes/engineering-process-changes-20251112.md",
     "engineering-process-changes",
     "roadmap-review-and-sos/roadmap-review-and-sos-action-items-20251118.md",
     "roadmap-review-and-sos",
-    "projects/dropship/dropship-bpm-and-fulfillment-events-202511.md",
     "3-active-threads-work-family-personal/work",
     "3-active-threads-work-family-personal",
     "connect-1-on-1/bhagya/bhagya-kelly-2025.md",
@@ -191,17 +206,6 @@
     "connect-1-on-1/saurabh/saurabh-kelly-20251107.md",
     "connect-1-on-1/shantanu/shantanu-kelly-2025.md",
     "connect-1-on-1/tanmay/tanmay-kelly-2025.md",
-    "connect-1-on-1/tanmay/tanmay-kelly-20251114.md",
-    "connect-1-on-1/shantanu",
-    "connect-1-on-1/bhagya",
-    "connect-1-on-1/tanmay",
-    "connect-1-on-1/thom",
-    "staff/staff-meeting-20251113.md",
-    "staff/staff-meeting-20251030.md",
-    "staff/staff-meeting-20251016.md",
-    "Welcome.md",
-    "release-deployment/release-deployment-20251107.md",
-    "connect-product-&-tech/bi-weekly-connect-20251028.md",
-    "Untitled 2.md"
+    "connect-1-on-1/tanmay/tanmay-kelly-20251114.md"
   ]
 }
