@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "process-changes/engineering-process-changes-20251126.md",
-                "mode": "preview",
+                "file": "client-extensibility/fleetfarm-fulfillment-extensibility-20251128.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "engineering-process-changes-20251126"
+              "title": "fleetfarm-fulfillment-extensibility-20251128"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "c9f2eced82ebbe21",
   "lastOpenFiles": [
-    "connect-1-on-1/shantanu/shantanu-kelly-2025.md",
+    "client-extensibility/fleetfarm-fulfillment-extensibility-20251121.md",
+    "client-extensibility/fleetfarm-fulfillment-extensibility-20251128.md",
     "process-changes/engineering-process-changes-20251126.md",
+    "connect-1-on-1/shantanu/shantanu-kelly-2025.md",
     "Untitled.md",
     "connect-1-on-1/aslam/aslam-kelly-2025.md",
     "connect-1-on-1/bhagya/bhagya-kelly-2025.md",
@@ -191,7 +193,6 @@
     "issues",
     "peak-planning",
     "client-extensibility/general",
-    "client-extensibility/fleetfarm-fulfillment-extensibility-20251121.md",
     "client-extensibility/fleetfarm-fulfillment-extensibility-20251030.md",
     "client-extensibility/fleetfarm-fulfillment-extensibility-20251031.md",
     "projects/sla-instance-updates-job/sla-instance0updates-job-20251120.md",
@@ -205,7 +206,6 @@
     "roadmap-review-and-sos/roadmap-review-and-sos-action-items-20251118.md",
     "roadmap-review-and-sos",
     "3-active-threads-work-family-personal/work",
-    "projects/cartonization/cartonization-commerce-apis-20251112.md",
-    "connect-1-on-1/rakesh/rakesh-kelly-20251114.md"
+    "projects/cartonization/cartonization-commerce-apis-20251112.md"
   ]
 }
