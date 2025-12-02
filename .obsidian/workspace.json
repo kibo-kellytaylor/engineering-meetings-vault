@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2c53202593895d68",
+        "id": "a1ba98e6ce6606fc",
         "type": "tabs",
         "children": [
           {
-            "id": "c9f2eced82ebbe21",
+            "id": "669f01153776c780",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client-extensibility/fleetfarm-fulfillment-extensibility-20251128.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "fleetfarm-fulfillment-extensibility-20251128"
+              "title": "New tab"
             }
           }
         ]
@@ -169,13 +165,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "c9f2eced82ebbe21",
+  "active": "669f01153776c780",
   "lastOpenFiles": [
-    "client-extensibility/fleetfarm-fulfillment-extensibility-20251121.md",
-    "client-extensibility/fleetfarm-fulfillment-extensibility-20251128.md",
+    "groot-n-rocket-team-sprint-planning-20251202.md",
+    "client-extensibility/fleetfarm/fleetfarm-fulfillment-extensibility-20251128.md",
+    "client-extensibility/fleetfarm/fleetfarm-fulfillment-extensibility-20251121.md",
+    "roadmap-review-and-sos/roadmap-review-and-sos-20251202.md",
+    "roadmap-review-and-sos/roadmap-review-and-sos-20251118.md",
+    "roadmap-review-and-sos/roadmap-review-and-sos-20251118-action-items.md",
+    "client-extensibility/fleetfarm/fleetfarm-fulfillment-extensibility-20251202.md",
+    "client-extensibility/fleetfarm/fleetfarm-fulfillment-extensibility-20251030.md",
+    "client-extensibility/fleetfarm/fleetfarm-fulfillment-extensibility-20251031.md",
+    "client-extensibility/fleetfarm",
+    "Untitled.md",
+    "projects/dropship/dropship-bpm-and-fulfillment-events-202511.md",
     "process-changes/engineering-process-changes-20251126.md",
     "connect-1-on-1/shantanu/shantanu-kelly-2025.md",
-    "Untitled.md",
     "connect-1-on-1/aslam/aslam-kelly-2025.md",
     "connect-1-on-1/bhagya/bhagya-kelly-2025.md",
     "projects/cartonization/cartonization-design-20251125.md",
@@ -183,7 +188,6 @@
     "projects/rate-shopping/rate-shopping-20251125.md",
     "connect-1-on-1/tanmay/tanmay-kelly-20251125.md",
     "projects/Untitled",
-    "projects/dropship/dropship-bpm-and-fulfillment-events-202511.md",
     "peak-planning/peak-microservice-scale-plans-20251124.md",
     "biweekly-connect-20251125.md",
     "process-changes/engineering-process-changes-20251119.md",
@@ -193,19 +197,11 @@
     "issues",
     "peak-planning",
     "client-extensibility/general",
-    "client-extensibility/fleetfarm-fulfillment-extensibility-20251030.md",
-    "client-extensibility/fleetfarm-fulfillment-extensibility-20251031.md",
     "projects/sla-instance-updates-job/sla-instance0updates-job-20251120.md",
     "projects/rate-shopping/rate-shopping-fulfillment-high-level-requirements-20251119.md",
     "projects/sla-instance-updates-job",
     "projects/rate-shopping",
-    "roadmap-review-and-sos/roadmap-review-and-sos-20251118.md",
-    "projects/cartonization/cartonization-fulfillment-ui-20251119.md",
-    "projects/cartonization/cartonization-fulfillment-ui-20251112.md",
     "process-changes",
-    "roadmap-review-and-sos/roadmap-review-and-sos-action-items-20251118.md",
-    "roadmap-review-and-sos",
-    "3-active-threads-work-family-personal/work",
-    "projects/cartonization/cartonization-commerce-apis-20251112.md"
+    "roadmap-review-and-sos"
   ]
 }
