@@ -11,10 +11,14 @@
             "id": "91cab31379bc308e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "projects/commerce-operations-foundation/commerce-ops-foundation-spec-review-20251218.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "commerce-ops-foundation-spec-review-20251218"
             }
           }
         ]
@@ -167,6 +171,12 @@
   },
   "active": "91cab31379bc308e",
   "lastOpenFiles": [
+    "projects/cartonization/cartonization-tech-design-20251218.md",
+    "projects/commerce-operations-foundation/commerce-ops-foundation-spec-review-20251218.md",
+    "projects/commerce-operations-foundation",
+    "standup/Untitled.md",
+    "standup/fulfillment-team-standup-20251210 1.md",
+    "standup/fulfillment-team-standup-20251210.md",
     "1-on-1/shantanu/shantanu-kelly-20251218.md",
     "1-on-1/shantanu/shantanu-kelly-2025.md",
     "1-on-1/bhagya/bhagya-kelly-20251218.md",
@@ -176,7 +186,6 @@
     "process-changes/engineering-process-changes-20251217.md",
     "process-changes/engineering-process-changes-20251212.md",
     "sprint-demo/fulfillment-ui-demo-20251217.md",
-    "standup/Untitled.md",
     "issues/Untitled.md",
     "roadmap-review-and-sos/roadmap-review-and-sos-20251216.md",
     "roadmap-review-and-sos/roadmap-review-and-sos-20251202.md",
@@ -190,15 +199,10 @@
     "sprint-demo",
     "sprint-planning/groot-n-rocket-team-sprint-planning-20251216.md",
     "projects/cartonization/cartonization-design-update-20251212.md",
-    "projects/cartonization/cartonization-design-20251125.md",
-    "projects/cartonization/cartonization-commerce-dependencies-20251209.md",
-    "projects/cartonization/cartonization-commerce-apis-20251112.md",
-    "process-changes/engineering-process-changes-20251126.md",
     "sprint-planning",
     "standup",
     "client-extensibility/fleetfarm",
     "1-on-1/aslam",
-    "projects/Untitled",
     "issues",
     "peak-planning",
     "client-extensibility/general",
