@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b34bb762dc1e1153",
+        "id": "15fecd004bf37ff7",
         "type": "tabs",
         "children": [
           {
-            "id": "86030cf2b88060c5",
+            "id": "91cab31379bc308e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roadmap-review-and-sos/roadmap-review-and-sos-20251216.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "roadmap-review-and-sos-20251216"
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +165,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "86030cf2b88060c5",
+  "active": "91cab31379bc308e",
   "lastOpenFiles": [
-    "roadmap-review-and-sos/roadmap-review-and-sos-20251202.md",
+    "1-on-1/shantanu/shantanu-kelly-20251218.md",
+    "1-on-1/shantanu/shantanu-kelly-2025.md",
+    "1-on-1/bhagya/bhagya-kelly-20251218.md",
+    "1-on-1/bhagya/bhagya-kelly-2025.md",
+    "1-on-1/tanmay/tanmay-kelly-20251218.md",
+    "1-on-1/tanmay/tanmay-kelly-2025.md",
+    "process-changes/engineering-process-changes-20251217.md",
+    "process-changes/engineering-process-changes-20251212.md",
+    "sprint-demo/fulfillment-ui-demo-20251217.md",
+    "standup/Untitled.md",
+    "issues/Untitled.md",
     "roadmap-review-and-sos/roadmap-review-and-sos-20251216.md",
+    "roadmap-review-and-sos/roadmap-review-and-sos-20251202.md",
     "Untitled 2.md",
     "projects/dropship/dropship-sync-20251215.md",
     "projects/dropship/dropship-sync-20251208.md",
@@ -182,26 +189,15 @@
     "sprint-planning/groot-n-rocket-team-sprint-planning-20251202.md",
     "sprint-demo",
     "sprint-planning/groot-n-rocket-team-sprint-planning-20251216.md",
-    "process-changes/engineering-process-changes-20251212.md",
     "projects/cartonization/cartonization-design-update-20251212.md",
     "projects/cartonization/cartonization-design-20251125.md",
     "projects/cartonization/cartonization-commerce-dependencies-20251209.md",
     "projects/cartonization/cartonization-commerce-apis-20251112.md",
     "process-changes/engineering-process-changes-20251126.md",
-    "process-changes/engineering-process-changes-20251119.md",
-    "process-changes/engineering-process-changes-20251112.md",
-    "peak-planning/peak-microservice-scale-plans-20251124.md",
-    "issues/missing-shipmentstatusreason-on-create-of-cancelled-shipment.md",
-    "connect-1-on-1/tanmay/tanmay-kelly-20251125.md",
-    "connect-1-on-1/tanmay/tanmay-kelly-20251114.md",
-    "connect-1-on-1/tanmay/tanmay-kelly-2025.md",
-    "connect-1-on-1/shantanu/shantanu-kelly-2025.md",
-    "connect-1-on-1/saurabh/saurabh-kelly-20251107.md",
-    "connect-1-on-1/rakesh/rakesh-kelly-20251212.md",
     "sprint-planning",
     "standup",
     "client-extensibility/fleetfarm",
-    "connect-1-on-1/aslam",
+    "1-on-1/aslam",
     "projects/Untitled",
     "issues",
     "peak-planning",
