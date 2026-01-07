@@ -1,4 +1,4 @@
-The discussion focused on a high-priority bug affecting AFG Ace Hardware's service item fulfillment for "ship to home" (SGH) shipments.
+The discussion focused on a high-priority bug affecting AFG Ace Hardware's service item fulfillment for "ship to home" (STH) shipments.
 
   
 
